@@ -7,4 +7,4 @@ I'm a Chinese international student studying in Binghamton University of New Yor
 
 A beginner for programming.
 
-Happy coding!
+Happy coding lol !
